@@ -65,6 +65,24 @@
 		"textAlignment"								"west"
 		"disabledfgcolor2_override"					"White"
 	}
+	"TargetNameLabelShadow"
+	{
+		"ControlName"								"CExLabel"
+		"fieldName"									"TargetNameLabelShadow"
+		"xpos"										"-1"
+		"ypos"										"-1"
+		"zpos"										"1"
+		"wide"										"640"
+		"tall"										"12"
+		"visible"									"1"
+		"enabled"									"0"
+		"font"										"m0refont11"
+		"labelText"									"%targetname%"
+		"textAlignment"								"west"
+		"disabledfgcolor2_override"					"Black"
+
+		"pin_to_sibling"							"TargetNameLabel"
+	}
 	"TargetDataLabel"
 	{
 		"ControlName"								"CExLabel"

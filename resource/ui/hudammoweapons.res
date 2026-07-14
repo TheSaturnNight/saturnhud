@@ -117,7 +117,7 @@
 		"visible"									"0"
 		"enabled"									"1"
 		"font"										"m0refont58"
-		"textAlignment"								"center"
+		"textAlignment"								"east"
 		"labelText"									"%Ammo%"
 		"fgcolor"									"Ammo No Clip"
 
@@ -137,7 +137,7 @@
 		"visible"									"0"
 		"enabled"									"1"
 		"font"										"m0refont58"
-		"textAlignment"								"center"
+		"textAlignment"								"east"
 		"labelText"									"%Ammo%"
 		"fgcolor"									"Black"
 

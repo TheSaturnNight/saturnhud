@@ -50,7 +50,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"NumPipesLabel"
-			"xpos"									"c378"
+			"xpos"									"c376"
 			"ypos"									"c160"
 			"zpos"									"2"
 			"wide"									"30"
@@ -59,7 +59,7 @@
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
 			"labelText"								"%activepipes%"
-			"textAlignment"							"center"
+			"textAlignment"							"east"
 			"font"									"m0refont24"
 			"fgcolor"								"White"
 		}
@@ -76,7 +76,7 @@
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
 			"labelText"								"%activepipes%"
-			"textAlignment"							"center"
+			"textAlignment"							"east"
 			"font"									"m0refont24"
 			"fgcolor"								"Black"
 

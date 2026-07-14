@@ -24,7 +24,7 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"HealthAnchor"
-		"xpos"										"c-355"
+		"xpos"										"c-335"
 		"ypos"										"c170"
 		"zpos"										"0"
 		"wide"										"2"
@@ -41,15 +41,19 @@
 	{
 		"ControlName"								"ImagePanel"
 		"fieldName"									"PlayerStatusHealthBonusImage"
-		"xpos"										"c-270"
-		"ypos"										"c206"
+		"xpos"										"9999"
+		"ypos"										"9999"
 		"zpos"										"-4"
-		"wide"										"10"
-		"tall"										"10"
+		"wide"										"0"
+		"tall"										"0"
 		"visible"									"0"
-		"enabled"									"1"
+		"enabled"									"0"
 		"image"										"../hud/health_over_bg"
 		"scaleImage"								"1"
+		
+		"pin_to_sibling"							"HealthValue"
+		"pin_corner_to_sibling"						"PIN_BOTTOMRIGHT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMRIGHT"
 	}
 
 	//==================================================================================================================================================
@@ -67,7 +71,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"labelText"									"%Health%"
-		"textAlignment"								"center"
+		"textAlignment"								"west"
 		"font"										"m0refont58"
 		"fgcolor"									"Health Numbers"
 
@@ -87,7 +91,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"labelText"									"%Health%"
-		"textAlignment"								"center"
+		"textAlignment"								"west"
 		"font"										"m0refont58"
 		"fgcolor"									"Black"
 
@@ -102,8 +106,8 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"PlayerStatusAnchor"
-		"xpos"										"-20"
-		"ypos"										"5"
+		"xpos"										"-32"
+		"ypos"										"-90"
 		"wide"										"0"
 		"tall"										"80"
 		"visible"									"1"

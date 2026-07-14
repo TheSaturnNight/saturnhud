@@ -130,25 +130,25 @@
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
 		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
-	"RankModelPanel"
-	{
-		"ControlName"								"CPvPRankPanel"
-		"fieldName"									"RankModelPanel"
-		"xpos"										"424"
-		"ypos"										"-415"
-		"zpos"										"2"
-		"wide"										"900"
-		"tall"										"900"
-		"visible"									"1"
-		"proportionaltoparent"						"1"
-		"mouseinputenabled"							"1"
-		"matchgroup"								"MatchGroup_Casual_12v12"
-		"show_progress"								"0"
-
-		"pin_to_sibling"							"RankPanel"
-		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"						"PIN_TOPLEFT"
-	}
+//	"RankModelPanel"
+//	{
+//		"ControlName"								"CPvPRankPanel"
+//		"fieldName"									"RankModelPanel"
+//		"xpos"										"424"
+//		"ypos"										"-415"
+//		"zpos"										"2"
+//		"wide"										"900"
+//		"tall"										"900"
+//		"visible"									"1"
+//		"proportionaltoparent"						"1"
+//		"mouseinputenabled"							"1"
+//		"matchgroup"								"MatchGroup_Casual_12v12"
+//		"show_progress"								"0"
+//
+//		"pin_to_sibling"							"RankPanel"
+//		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
+//		"pin_to_sibling_corner"						"PIN_TOPLEFT"
+//	}
 	"NoGCMessage"
 	{
 		"ControlName"								"CExLabel"
@@ -301,11 +301,11 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldname"									"Create"
-		"xpos"										"-91"
-		"ypos"										"3"
+		"xpos"										"-67"
+		"ypos"										"1"
 		"zpos"										"16"
-		"wide"										"22"
-		"tall"										"14"
+		"wide"										"21"
+		"tall"										"13"
 
 		"pin_to_sibling"							"Servers"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"

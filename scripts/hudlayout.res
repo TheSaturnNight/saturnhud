@@ -437,15 +437,15 @@
 		"CornerRadius"								"0"
 		"RightJustify"								"1"
 
-		"TextFont"									"m0refont11"
+		"TextFont"									"Dekatron"
 
 		"TeamBlue"									"m0reBlue"
 		"TeamRed"									"m0reRed"
 		"IconColor"									"White"
 		"LocalPlayerColor"							"HUDBlack"
 
-		"BaseBackgroundColor"						"0 0 0 100"
-		"LocalBackgroundColor"						"240 240 240 200"
+		"BaseBackgroundColor"						"0 0 0 0"
+		"LocalBackgroundColor"						"255 255 255 200"
 	}
 	"HudVehicle"
 	{
@@ -641,7 +641,7 @@
 		"fieldName"									"HudVoiceSelfStatus"
 		"visible"									"1"
 		"enabled"									"1"
-		"xpos"										"r42"
+		"xpos"										"24"
 		"ypos"										"355"
 		"wide"										"32"
 		"tall"										"32"
@@ -652,7 +652,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"xpos"										"r145"
-		"ypos"										"0"
+		"ypos"										"-30"
 		"wide"										"145"
 		"tall"										"400"
 

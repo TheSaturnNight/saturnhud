@@ -37,8 +37,8 @@
 		"Menu Labels"										"0 202 255 255"
 		"Class Selection"									"0 202 255 255"
 
-		"m0reBlue"											"0 120 201 255"
-		"m0reRed"											"235 58 58 255"
+		"m0reBlue"											"177 132 255 255"
+		"m0reRed"											"255 55 109 255"		
 
 		"Crosshair"											"255 255 255 255"
 		"Crosshair Flash"									"255 87 123 255"

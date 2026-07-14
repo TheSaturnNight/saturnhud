@@ -250,6 +250,15 @@
 				"antialias"									"1"
 			}
 		}
+		"Dekatron"
+		{
+			"1"
+			{
+				"name"										"Dekatron SemBd"
+				"tall"										"11"
+				"antialias"									"1"
+			}
+		}
 		"VerdanaMenu"										//Create Server Button
 		{
 			"1"
@@ -2861,6 +2870,11 @@
 		{
 			"font"		"resource/scheme/fonts/Ethnocentric-Regular.otf"
 			"name"		"Ethnocentric"
+		}
+		"14"
+		{
+			"font"		"resource/scheme/fonts/Dekatron-SemiBold.otf"
+			"name"		"Dekatron SemBd"
 		}
 	}
 }
